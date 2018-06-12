@@ -1,0 +1,21 @@
+Usage: ./my_world [option | map]
+3D map editor
+
+Option(s):
+	-h                 Display usage
+
+Interaction(s):
+	Ctrl + o           load an existing map
+	Ctrl + s           save the current map
+	Ctrl + n           create a new map
+	Ctrl + e           enlarge by one in the two dimensions the map
+	Ctrl + r           reduce bu one in the two dimensions the map
+	Ctrl + =           switch to null level mod
+	Ctrl + u           switch to up level mod
+	Ctrl + d           switch to down level mod
+	Echap              quit the game
+	Arrows             move around the map
+	Page up            zoom +
+	Page down          zoom -
+
+N.B. : You can also use buttons displayed on the screen

@@ -1,0 +1,11 @@
+*.o
+*.a
+*.gcno
+*.gcda
+*~
+#*#
+vgcore.*
+.#*
+*.xcf
+my_world
+units
